@@ -7,7 +7,7 @@ Dès que l'on clique sur ***CONVERTIR*** programme va multiplier par 1,61 le nom
 
 ## Deployment
 
-Pour le faire tourner il vous faut avoir Python d'installer sur votre PC/MAC.
+Pour le faire tourner il vous faut avoir Python installé sur votre PC/MAC.
 
 Il faut aussi installer ttkbootstrap pour la mise en forme
 
